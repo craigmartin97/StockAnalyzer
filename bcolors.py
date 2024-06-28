@@ -1,0 +1,10 @@
+class Colors:
+    Header = '\033[95m'
+    OkBlue = '\033[94m'
+    OkCyan = '\033[96m'
+    OkGreen = '\033[92m'
+    Warning = '\033[93m'
+    Fail = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
